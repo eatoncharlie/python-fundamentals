@@ -16,3 +16,4 @@ def test_name_methods(capsys):
     assert words[0:1] == [B.cap_last_name]
     assert words[1:2] == [B.your_first_name]
 
+
