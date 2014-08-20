@@ -12,6 +12,8 @@ some_int = 9
 
 some_float =9.0
 
+some_bool=True
+
 ## some_bool should be... what do you think?
 
 # redefining
