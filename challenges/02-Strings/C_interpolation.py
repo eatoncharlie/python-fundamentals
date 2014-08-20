@@ -10,6 +10,7 @@ s = 'this string is %d characters long'
 
 print s % len(s)
 
+
 #s2= 'thisstring is {mylen} characters {mylen} long'
 #s2 len = len(s2)
 #print s2.format(mylen = s2_len)
